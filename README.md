@@ -72,15 +72,15 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=STYL0009&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=STYLO009&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STYL0009&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STYLO009&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=STYL0009&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=STYLO009&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -90,7 +90,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=STYL0009&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -110,7 +110,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/STYL0009/STYL0009/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/STYLO009/STYLO009/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -154,7 +154,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=STYL0009&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=STYLO009&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
