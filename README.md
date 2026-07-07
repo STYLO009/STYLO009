@@ -1,10 +1,18 @@
-# Hello 👋 I'm Abir Majumdar
+<h1 align="center">⚡ Abir Majumdar ⚡</h1>
 
-<img src="assets/banner.png">
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner">
+</p>
 
-## 🚀 About Me
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Full+Stack+Developer;LLM+%7C+RAG+Developer;AI+Enthusiast;Building+AI+for+Real+World+Problems;Welcome+to+my+GitHub!" />
+</p>
 
-🎓 AIML Student
+---
+
+# 👋 About Me
+
+🎓 B.Tech AIML Student
 
 🤖 Machine Learning Engineer
 
@@ -12,65 +20,153 @@
 
 🧠 LLM & RAG Developer
 
-📍 India
-<p align="center">
-<img src="banner.png" width="100%">
-</p>
+🚀 Open Source Enthusiast
+
+🌏 India
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39F70A&width=435&lines=Abir+Majumdar;AIML+Developer+and+SQL+learner;Chase+your+dreams+;Big+Dreams+Big+Respects">
-</p>
 
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/abir-majumdar-0b0437318/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<a href="https://github.com/STYLO009">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<a href="mailto:abirmajumdar112@gmmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
-## 💻 Tech Stack
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,react,nextjs,nodejs,flask,tensorflow,pytorch,mysql,mongodb,firebase,docker,git,github,vscode,figma">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,ts,react,nextjs,nodejs,express,flask,tensorflow,pytorch,sklearn,mysql,mongodb,firebase,docker,git,github,vscode,figma,html,css,tailwind,linux&perline=9"/>
 
 </p>
 
-## 📊 GitHub Stats
+---
 
-![](https://github-readme-stats.vercel.app/api?username=STYLO009&show_icons=true&theme=tokyonight)
+# 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=STYLO009&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=STYLO009&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=STYLO009&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📈 Contribution Graph
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STYLO009&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night)
+</p>
 
-![](https://komarev.com/ghpvc/?username=STYLO009&color=blueviolet)
+<p align="center">
 
-## 🏆 Trophies
+<img src="https://streak-stats.demolab.com?user=STYLO009&theme=tokyonight&hide_border=true"/>
 
-![](https://github-profile-trophy.vercel.app/?username=STYLO009&theme=tokyonight)
+</p>
 
+---
 
-## 💭 Quote
+# 📈 Contribution Graph
 
-> "Build AI that solves real-world problems."
+<p align="center">
 
-## 🚀 Featured Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night&hide_border=true"/>
 
-⭐ Ancient Scriptures AI
-⭐ Justice AI
-⭐ Mock Interview AI
+</p>
 
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=STYLO009&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/STYLO009/STYLO009/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** You'll need to set up a GitHub Action to generate the snake animation.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| ⚖️ Justice AI | AI Legal Assistant for Indian Laws |
+| 📜 Ancient Scriptures AI | AI-powered search across ancient scriptures |
+| 🎤 Mock Interview AI | AI Interview Practice Platform |
+| 🤖 AI Mentor | Personalized AI Learning Assistant |
+| 🌾 Farmer Marketplace | Smart Agriculture Marketplace |
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Machine Learning
+- Large Language Models
+- Retrieval Augmented Generation
+- MLOps
+- AWS Cloud
+- System Design
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Deep Learning
+
+✅ Build Production AI Systems
+
+✅ Contribute to Open Source
+
+✅ Crack Top AI Internship
+
+✅ Publish Research Projects
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=STYLO009&label=Visitors&color=00F5FF&style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💭 Quote
+
+<p align="center">
+
+> **"Build AI that solves real-world problems, not just benchmarks."**
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Thanks for visiting my profile! ⚡
+
+⭐ Don't forget to star repositories if you like them.
+
+</p>
