@@ -44,3 +44,33 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,java,react,nextjs,nodejs,flask,tensorflow,pytorch,mysql,mongodb,firebase,docker,git,github,vscode,figma">
 
 </p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=STYLO009&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=STYLO009&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=STYLO009&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night)
+
+![](https://komarev.com/ghpvc/?username=STYLO009&color=blueviolet)
+
+## 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=STYLO009&theme=tokyonight)
+
+
+## 💭 Quote
+
+> "Build AI that solves real-world problems."
+
+## 🚀 Featured Projects
+
+⭐ Ancient Scriptures AI
+⭐ Justice AI
+⭐ Mock Interview AI
+
