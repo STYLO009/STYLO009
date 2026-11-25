@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.png" width="130" height="130" style="border-radius:50%;" alt="Abir Majumdar"/>
+<img src="https://github.com/STYLO009.png" width="130" height="130" alt="Abir Majumdar" style="border-radius:50%;"/>
 
 <h1>Hi there, I'm Abir Majumdar 👋</h1>
 
@@ -84,19 +84,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=STYLO009&theme=algolia&no-frame=true&row=2&column=4"/>
-</div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/STYLO009/STYLO009/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -143,8 +131,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=STYLO009&label=Profile+Views&color=blueviolet&style=for-the-badge)
-
-<img src="./assets/animation.gif" width="60" alt="Animation"/>
 
 > **"The best way to predict the future is to build it."**
 
