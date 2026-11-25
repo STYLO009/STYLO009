@@ -1,144 +1,136 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Abir+Majumdar;AI+%7C+Machine+Learning+Engineer;Full+Stack+Developer;LLM+%7C+RAG+Developer" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
+<img src="./assets/profile.png" width="130" height="130" style="border-radius:50%;" alt="Abir Majumdar"/>
+
+<h1>Hi there, I'm Abir Majumdar 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Engineer;Full+Stack+Developer;LLM+%7C+RAG+Developer" />
+
+<p>
+  <a href="https://github.com/STYLO009">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abir-majumdar-0b0437318/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abirmajumdar112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-<p align="center">
+<img src="./assets/banner.png" width="100%" alt="Cyberpunk Banner"/>
 
-<a href="https://github.com/STYL0009">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/abir-majumdar-0b0437318/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:abirmajumdar112@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+<table>
+  <tr>
+    <td align="center" width="50%">
 
-🤖 Machine Learning Engineer
+### 🎓 Education
+**B.Tech in Artificial Intelligence & Machine Learning**
 
-💻 Full Stack Developer
+### 🚀 What I Do
+- 🤖 Machine Learning Engineer
+- 💻 Full Stack Developer
+- 🧠 LLM & RAG Developer
+- ☁️ AWS Cloud Learner
+- 🚀 Open Source Enthusiast
 
-🧠 LLM & RAG Developer
+    </td>
+    <td align="center" width="50%">
 
-☁️ AWS Cloud Learner
+### 🎯 Current Focus
+- ⚖️ Building **Justice AI** — Indian Legal AI Assistant
+- 📜 Building **Ancient Scriptures AI** — LLM + RAG
+- 🤖 Production-ready **RAG Systems** & **AI Agents**
+- ⚙️ **LangChain** · **HuggingFace** · **Ollama**
+- ☁️ **MLOps** on **AWS**
 
-🚀 Open Source Enthusiast
-
+### 📍 Location
 🇮🇳 India
 
----
-
-# 🚀 Current Focus
-
-- Building Ancient Scriptures AI
-- Production-ready RAG Systems
-- AI Agents
-- LangChain
-- HuggingFace
-- Ollama
-- MLOps
-- AWS
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,react,nextjs,nodejs,express,flask,fastapi,tensorflow,pytorch,mysql,mongodb,firebase,docker,git,github,linux,vscode,figma,tailwind,html,css&perline=9"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=STYLO009&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STYLO009&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=STYLO009&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=STYLO009&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STYLO009&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night&hide_border=true"/>
+</div>
 
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=STYLO009&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=STYLO009&theme=tokyo-night&hide_border=true"/>
-
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=STYLO009&theme=algolia&no-frame=true&row=2&column=4"/>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=STYLO009&theme=algolia&no-frame=true&row=2&column=4" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/STYLO009/STYLO009/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/STYLO009/STYLO009/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Tech |
-|----------|------|
-| ⚖️ Justice AI | Indian Legal AI Assistant |
-| 📜 Ancient Scriptures AI | LLM + RAG |
-| 🤖 AI Mentor | Personalized Learning |
-| 🎤 Mock Interview AI | AI Interview Platform |
-| 🌾 Farmer Marketplace | MERN Stack |
+<div align="center">
 
----
+| Project | Description |
+|---------|-------------|
+| ⚖️ **Justice AI** | Indian Legal AI Assistant |
+| 📜 **Ancient Scriptures AI** | LLM + RAG over sacred texts |
+| 🤖 **AI Mentor** | Personalized AI Learning |
+| 🎤 **Mock Interview AI** | AI Interview Platform |
+| 🌾 **Farmer Marketplace** | MERN Stack Marketplace |
 
-# 📚 Currently Learning
-
-- Large Language Models
-- Multi-Agent AI
-- LangGraph
-- AWS Cloud
-- Kubernetes
-- System Design
-- MLOps
+</div>
 
 ---
 
-# 🎯 2026 Goals
+## 📚 Currently Learning
+
+<div align="center">
+
+![LLMs](https://img.shields.io/badge/Large_Language_Models-00F5FF?style=flat-square&logo=openai&logoColor=black)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent_AI-00F5FF?style=flat-square&logo=langchain&logoColor=black)
+![LangGraph](https://img.shields.io/badge/LangGraph-00F5FF?style=flat-square)
+![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-00F5FF?style=flat-square)
+![MLOps](https://img.shields.io/badge/MLOps-00F5FF?style=flat-square)
+
+</div>
+
+---
+
+## 🎯 2026 Goals
 
 - 🚀 Build Production AI Applications
 - 📚 Publish Open Source Projects
@@ -148,30 +140,14 @@
 
 ---
 
-# 📊 Visitors
+<div align="center">
 
-<p align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=STYLO009&label=Profile+Views&color=blueviolet&style=for-the-badge)
 
-<img src="https://komarev.com/ghpvc/?username=STYLO009&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-<p align="center">
+<img src="./assets/animation.gif" width="60" alt="Animation"/>
 
 > **"The best way to predict the future is to build it."**
 
-</p>
+⭐ *Thanks for visiting my profile — if you like my projects, consider giving them a* ⭐
 
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-If you like my projects, consider giving them a ⭐
-
-</h3>
+</div>
